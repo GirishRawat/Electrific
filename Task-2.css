@@ -1,0 +1,17 @@
+// p.text-success {
+	font-size: 100%;
+}
+
+body { 
+	padding-top: 70px; 
+}
+
+ul.nav a:hover { 
+	color: #fff !important; 
+}
+
+
+#brand {
+	color: #D5D4D5;
+	font-size:100%;
+}
